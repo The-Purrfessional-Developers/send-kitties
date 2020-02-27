@@ -2,7 +2,8 @@ Contributor name: Azia Ramirez (no Github)
 Uploaded by: Corbin Taylor (cjtaylor1990)
 
 Comforting:
-java_minchi.jpg - Java and Minchi
+java_minchi1.jpg - Java and Minchi
+java_cinder_java1.png - Java, Cinder, and Minchi
 
 Happy
 java1.jpg - Java
@@ -11,14 +12,20 @@ latte5.jpg - Latte
 
 Hyper
 cinder1.jpg - Cinder
+latte7.jpg - Latte
 
 Mischievous 
 java2.jpg - Java
 latte4.jpg - Latte
 mischief1.jpg - Mischief
 mischief3.jpg - Mischief
+latte6.png - Latte
 
 Tired
 latte1.jpg - Latte
 latte3.jpg - Latte
 mischief2.jpg - Mischief
+minchi1.png - Minchi
+mischief4.png - Mischief
+minchi2.png - Minchi
+minchi3.png - Minchi
