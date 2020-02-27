@@ -6,7 +6,7 @@ Thank you for you Kitty Pic :)
 
 Kitty Name:
 
-Mood you believe pic inspires (happy, hyper, comforting, or mischievous): 
+Mood you believe pic inspires (happy, hyper, comforting, mischievous, or tired): 
 
 Your github name:
 
