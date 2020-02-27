@@ -2,7 +2,7 @@
 
 Thank you for you Kitty Pic :)
 
-##Please add to a .txt file##
+## Please add to a .txt file
 
 Kitty Name:
 Mood you believe pic inspires (happy, hyper, comforting, or mischievous): 
