@@ -1,1 +1,13 @@
-Name, Mood, Bio
+File, Name, Mood, Bio
+Brothers1, Puppy & Ruger, Hungry, Fat Cats gorging themselves on snacks
+Puppy1, Puppy, Comforting, 
+Puppy2, Puppy, Snuggly,
+Ruger1, Ruger, Happy,
+Ruger2, Ruger, Sleepy,
+Ruger3, Ruger, Happy,
+Ruger4, Ruger, Sleepy,
+Ruger5, Ruger, Sleepy,
+Ruger6, Ruger, Sleepy,
+Ruger7, Ruger, mischievous
+Ruger8, Ruger, Sleepy,
+Ruger9, Ruger, Sleepy,
